@@ -1,0 +1,64 @@
+h1{
+  margin: -95px 0 0 200px;
+}
+
+#contact-1{
+  margin: 70px 0 0 30px;
+  font-size: 30px;
+}
+
+
+#contact img{
+  height: 50px;
+  width: 50px;
+  margin: 10px 0 0 0;
+}
+
+#face-contato{
+	margin: -220px 0 0 60px;
+}
+
+#insta-contato{
+	margin: 33px 0 0 60px;
+}
+
+#git-contato{
+	margin: 33px 0 0 60px;
+}
+
+#size b{
+	font-size: 20px;
+}
+
+#sobre{
+	margin: -200px 0 0 300px;
+	padding-right: 300px;
+}
+
+#sobre h1{
+	margin: 0 0 0 -10px;
+}
+
+#principal{
+	margin: 50px 0 0 60px;
+}
+
+#hobbies{
+	margin: 0px 0 0 300px;
+}
+
+#hobbies h1{
+	margin: 0 0 0 -10px;
+}
+
+#jogos{
+	margin: 0px 0 0 300px;
+}
+
+#jogos h1{
+	margin: -10px;
+}
+
+#fontfam{
+	font-family: cursive;
+}
